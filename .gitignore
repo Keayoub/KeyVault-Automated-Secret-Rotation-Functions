@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+.vscode/
+.azurite/
+.venv/  
+
+# settings files
+local.settings.json
+infra/terraform/AkvLogAnalyticsKeyConnector/.terraform.tfstate.lock.info
+infra/terraform/AkvLogAnalyticsKeyConnector/terraform.tfstate
